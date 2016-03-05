@@ -1,0 +1,43 @@
+{
+  "name": "app",
+  "description": "App Client Inventario App",
+  "main": "app.js",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "authors": [
+    "Ingenium-Soft S.A.S."
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-ui-router": "^0.2.18",
+    "font-awesome": "fontawesome#^4.5.0",
+    "bootswatch-dist": "cerulean"
+  },
+  "overrides" : {
+    "bootswatch-dist" : {
+      "main": [
+        "js/bootstrap.js",
+        "css/bootstrap.css",
+        "fonts/*"
+      ]
+    },
+    "font-awesome" : {
+      "main" : [
+        "css/font-awesome.css",
+        "fonts/*"
+      ]
+    }
+  }
+}
