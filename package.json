@@ -1,12 +1,12 @@
 {
   "name": "app",
   "version": "1.0.0",
-  "description": "App Cliente Inventario App",
+  "description": "angular-skeleton",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ingenium-Soft S.A.S.",
+  "author": "Miguel Romero",
   "license": "MIT",
   "dependencies": {
     "gulp": "^3.9.1",

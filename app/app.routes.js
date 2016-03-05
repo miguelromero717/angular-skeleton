@@ -1,4 +1,4 @@
-angular.module('InventarioApp').config(['$stateProvider', '$urlRouterProvider', '$locationProvider',
+angular.module('AngularApp').config(['$stateProvider', '$urlRouterProvider', '$locationProvider',
     function($stateProvider, $urlRouterProvider, $locationProvider) {
 
         // For unmatched routes

@@ -1,1 +1,1 @@
-angular.module('InventarioApp',['ui.router']);
+angular.module('AngularApp',['ui.router']);

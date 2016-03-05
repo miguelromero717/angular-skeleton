@@ -1,13 +1,13 @@
 {
   "name": "app",
-  "description": "App Client Inventario App",
+  "description": "angular-skeleton",
   "main": "app.js",
   "moduleType": [
     "es6",
     "node"
   ],
   "authors": [
-    "Ingenium-Soft S.A.S."
+    "Miguel Romero"
   ],
   "license": "MIT",
   "homepage": "",
